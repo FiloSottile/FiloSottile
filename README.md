@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FiloSottile/FiloSottile/blob/main/Logo Bianco_Filippo Valsorda_Tiny 1.2.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/FiloSottile/FiloSottile/blob/main/Logo Nero_Filippo Valsorda_Tiny 1.2.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FiloSottile/FiloSottile/blob/main/Logo%20Bianco_Filippo%20Valsorda_Tiny%201.2.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/FiloSottile/FiloSottile/blob/main/Logo%20Nero_Filippo%20Valsorda_Tiny%201.2.svg">
         <img width="600" src="https://github.com/FiloSottile/FiloSottile/blob/main/Logo Nero_Filippo Valsorda_Tiny 1.2.svg">
     </picture>
 </p>
