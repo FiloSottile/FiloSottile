@@ -28,4 +28,4 @@ I believe the best way to precipitate this change is to prove the model myself, 
 
 None of this, both my open source work and establishing this model, would be possible without my clients, who've been forward-thinking enough to invest in something new.
 
-![logos](https://github.com/FiloSottile/FiloSottile/assets/1225294/740821ba-0afa-4075-91fc-2e7229148ffd)
+![logos2023](https://github.com/FiloSottile/FiloSottile/assets/1225294/67706c93-3d6f-4335-81cb-58283c144100)
