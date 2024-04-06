@@ -2,11 +2,9 @@ This policy explains how I work on my open source projects, what you should expe
 
 ### I work in cycles
 
-I work on a number of codebases, and the way to apportion attention that works best with my brain is to batch up work, focus on one project for one to four weeks, and then move to a different project.
+I work on a number of codebases, and the way to apportion attention that works best with my brain is to batch up work, focus on a project for one to four weeks, and then move to a different project. This reduces context switching overhead and gives me time to consider overall trends.
 
-This means there might be extended periods during which I am not actively working on a specific project. This does NOT mean the project is unmaintained: I still _read_ every issue filed, and would act immediately if an urgent issue was reported.
-
-Urgent issues include security vulnerabilities, and breakages that affect current users, such as incompatibility with a new OS or browser version.
+This means there might be extended periods during which I am not actively working on a specific project. This does NOT mean the project is unmaintained: I still _read_ every issue filed, and would react promptly to urgent issues, such as security reports or any breakage that makes a project not work anymore for its _current_ users.
 
 If a project is unmaintained, it will be either archived or moved to [FiloSottile/mostly-harmless](https://github.com/FiloSottile/mostly-harmless).
 
