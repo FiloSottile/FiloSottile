@@ -78,3 +78,11 @@ Please email me privately at security@filippo.io to report a potential security 
 I am happy with standard ninety days disclosure timelines, or with embargoes no longer than nine months. I will produce security advisories and file CVEs for any issue I consider a security issue.
 
 I know projects are not entitled to free security research or coordinated disclosure, and I appreciate the contribution of reporters. I do not offer bug bounties at this time.
+
+#### On security scanners
+
+I _do not_ update dependencies just to silence automated reports of unrelated vulnerabilities that don't affect my project. (Nor do I subscribe to the endless dependabot churn, although my opinions about the benefits of that are more nuanced.)
+
+Using automated tools that fail to do even package-level scoping and then pushing the churn onto every upstream project to reduce noise is unsustainable. My responsibility is making sure my projects are not affected by security vulnerabilities. The responsibility of scanning tools is making sure they don't disturb their users with false positives.
+
+[govulncheck](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck) is awesome and even does static analysis to filter vulnerabilities at the symbol level, but simple package-level filtering is something you should demand of your vendors.
