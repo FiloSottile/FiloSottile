@@ -50,11 +50,18 @@ All together, this means that detailed issues are usually more useful to me than
 
 There are some exceptions, like support for operating systems I am not familiar with, or features I am not well-equipped to implement. We can discuss those cases in the issue tracker. I am also usually happy to merge trivial/short changes.
 
-### Sponsorship
+### Funding
 
-I offer retainer contracts for clients that would benefit from a higher-bandwidth communication channel, and who want direct access to my expertise. [Read more](https://github.com/FiloSottile/FiloSottile/blob/main/README.md) or reach out for a prospectus.
+I’m a [professional Open Source maintainer](https://words.filippo.io/professional-maintainers/). If your company might be interested in enabling my work, in the [reciprocal value of a direct line to a maintainer](https://words.filippo.io/dispatches/reciprocal/), and in unlimited access to my expertise, reach out to discuss a retainer! 📨
 
-I generally don’t solicit donations from individuals. Instead, consider [sending me a postcard](https://filippo.io/#addresses).
+_I believe the critical role of open source maintainer can develop into a real profession, commanding compensation in line with that of a senior software engineer, charging companies that rely on open source projects and wish to get access to the maintainer's unique and extensive expertise._
+
+**I don't rely on crowdfunding for sustainability, so I generally don't solicit donations from individuals**. If you wish to express gratitude or encourage my work, send me a postcard! 📮
+
+> Filippo Valsorda  
+> 9450 SW Gemini Dr #52960  
+> Beaverton, Oregon 97008-7105  
+> USA
 
 ### Conduct
 
@@ -62,7 +69,7 @@ Most of my projects don’t have a formal code of conduct, but I uphold the valu
 
 Comments that create an unwelcoming environment will lead to a ban. This is my garden, you can go be a jerk elsewhere.
 
-### Security issues
+### Security
 
 Please email me privately at security@filippo.io to report a potential security issue. If you’re not sure if something is a security issue, reach out! You should expect a reply within a week, usually much quicker.
 
