@@ -52,7 +52,7 @@ There are some exceptions, like support for operating systems I am not familiar 
 
 ### Sponsorship
 
-I offer retainer contracts for clients that would benefit from a higher-bandwidth communication channel, and who want direct access to my expertise. [Read more](https://words.filippo.io/full-time-maintainer/) or reach out for a prospectus.
+I offer retainer contracts for clients that would benefit from a higher-bandwidth communication channel, and who want direct access to my expertise. [Read more](https://github.com/FiloSottile/FiloSottile/blob/main/README.md) or reach out for a prospectus.
 
 I generally don’t solicit donations from individuals. Instead, consider [sending me a postcard](https://filippo.io/#addresses).
 
