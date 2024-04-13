@@ -1,6 +1,7 @@
 # Filippo's open source maintenance policy
 Link: https://filippo.io/maintenance  
-Updated: April 2024
+Updated: April 2024  
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 This policy explains how I work on my open source projects, what you should expect from me as a maintainer, and how to contribute.
 
