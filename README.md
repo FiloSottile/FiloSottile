@@ -28,4 +28,4 @@ I believe the best way to precipitate this change is to prove the model myself, 
 
 None of this, both my open source work and establishing this model, would be possible without my clients, who've been forward-thinking enough to invest in something new.
 
-![logos2024](https://github.com/FiloSottile/FiloSottile/assets/1225294/63424886-69a8-4c18-a5d9-f65aec05d6ed)
+![Nine logos in a grid: Sigsum, Latacora, Interchain Foundation, Smallstep, Ava Labs, Teleport, SandboxAQ, Tailscale, Charm](https://github.com/FiloSottile/FiloSottile/assets/1225294/823a5ffa-1f09-4c55-9bef-c6eab9baa4af)
