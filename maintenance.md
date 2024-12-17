@@ -1,6 +1,6 @@
 # Filippo's open source maintenance policy
 Link: https://filippo.io/maintenance  
-Updated: April 2024  
+Updated: December 2024  
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 This policy explains how I work on my open source projects, what you should expect from me as a maintainer, and how to contribute.
@@ -71,6 +71,12 @@ _I believe the critical role of open source maintainer can develop into a real p
 Most of my projects don’t have a formal code of conduct, but I uphold the values of the [Go Community Code of Conduct](https://go.dev/conduct) and I have a zero-tolerance policy for toxic behavior.
 
 Comments that create an unwelcoming environment will lead to a ban. This is my garden, you can go be a jerk elsewhere.
+
+### Supported versions
+
+I do not support any versions of my software older than [`@latest`](https://go.dev/ref/mod#version-queries). Likewise, I do not hold back dependencies to support building with older versions (e.g. of the Go toolchain).
+
+If using a fixed release Linux distribution that's shipping outdated software or toolchains, Go [makes it easy](https://go.dev/blog/toolchain) to build and install `latest` with the right toolchain. Asking upstreams to carry that support and compatiblity burden is just not sustainable.
 
 ### Security
 
