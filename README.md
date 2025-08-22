@@ -28,4 +28,5 @@ I believe the best way to precipitate this change is to prove the model myself, 
 
 None of this, both my open source work and establishing this model, would be possible without my clients, who've been forward-thinking enough to invest in something new.
 
-![Eight logos in a grid: Sigsum, Interchain Foundation, Smallstep, Ava Labs, Teleport, SandboxAQ, Tailscale, Charm](https://github.com/user-attachments/assets/8cbdd39f-639b-44bf-b397-49856e1dc0b2)
+![Eight logos in a grid: Sigsum, Smallstep, Ava Labs, Teleport, Tailscale](https://github.com/user-attachments/assets/1f19cbcf-1237-4ece-bf6b-e25b51b078ea)
+
